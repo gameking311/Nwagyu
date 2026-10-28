@@ -1,52 +1,52 @@
 # Documentation
 
-This documentation is trying to describe everything we know about the NumWorks
-calculator.
+Cette documentation essaie de décrire tout ce qu'on sait à propos de la calculatrice
+NumWorks..
 
-If you are looking for apps, please go to the [User Documentation](../guide/).
+Si vous cherchez des applications, veuillez consulter la [documentation utilisateur](../guide/).
 
-Here's what is documented at the time, separated under different categories :
+Voici ce qui est documenté pour l'instant, séparé sous différentes catégories :
 
-## Categories
+## Catégories
 
-### [Tutorial](tutorial/)
+### [Tutoriel](tutorial/)
 
-- [1 - Project creation](tutorial/1-create.md)
-- [2 - Cleaning up the template](tutorial/2-cleanup-template.md)
-- [3 - Moving the snake](tutorial/3-moving-the-snake.md)
-- [4 - Handling snake length](tutorial/4-snake-length.md)
-- [5 - Eating fruits](tutorial/5-fruits.md)
+- [1 - Création du projet](tutorial/1-create.md)
+- [2 - Nettoyage du modèle](tutorial/2-cleanup-template.md)
+- [3 - Déplacer le serpent](tutorial/3-moving-the-snake.md)
+- [4 - Gérer la taille du serpent](tutorial/4-snake-length.md)
+- [5 - Manger des fruits](tutorial/5-fruits.md)
 - [6 - Game over](tutorial/6-game-over.md)
-- [7 - Map edge handling](tutorial/7-map-edge.md)
-- [8 - Frame limiter](tutorial/8-frame-limiter.md)
-- [9 - Progressive fruits spawning](tutorial/9-fruits-spawning.md)
-- [10 - Score calculator and saving](tutorial/10-score.md)
-- [11 - Map support](tutorial/11-maps.md)
-- [12 - App icon](tutorial/12-icon.md)
-- [13 - Increasing speed](tutorial/13-increasing-speed.md)
+- [7 - Gérer les coins de la carte](tutorial/7-map-edge.md)
+- [8 - Limiter les frames](tutorial/8-frame-limiter.md)
+- [9 - Apparition progressive des fruits](tutorial/9-fruits-spawning.md)
+- [10 - Calcul du score et enregistrement](tutorial/10-score.md)
+- [11 - Support de la carte](tutorial/11-maps.md)
+- [12 - Icône de l'appli](tutorial/12-icon.md)
+- [13 - Augmenter la vitesse](tutorial/13-increasing-speed.md)
 - [14 - Conclusion](tutorial/14-conclusion.md)
 
-### [External apps](apps/)
+### [Applications externes](apps/)
 
-- [Creating your own application](apps/creating-application.md)
-- [Accessing storage](apps/storage.md)
-- [On/Off and Home keys](apps/onoff-home.md)
+- [Créer votre propre application](apps/creating-application.md)
+- [Accéder au stockage](apps/storage.md)
+- [Touches On/Off et Accueil](apps/onoff-home.md)
 - [Syscalls](apps/syscalls.md)
 
 ### [Firmware](firmware/)
 
-- [Boot process](firmware/boot-process.md)
+- [Processus de démarrage](firmware/boot-process.md)
 - [Slots](firmware/slots.md)
 - [Bootloader](firmware/bootloader.md)
 - [Kernel](firmware/kernel.md)
 - [Userland](firmware/userland.md)
-- [Addresses and structures](firmware/addresses-structures.md)
+- [Adresses et structures](firmware/addresses-structures.md)
 
-### [Others](others/)
+### [Autres](others/)
 
-- [Communication with the computer (DFU)](others/dfu.md)
-- [Downloading Epsilon from NumWorks' website](others/downloading-epsilon.md)
+- [Communication avec l'ordinateur (DFU)](others/dfu.md)
+- [Télécharger Epsilon depuis le site de NumWorks](others/downloading-epsilon.md)
 
-### [Developer tips](tips/)
+### [Astuces de développeur](tips/)
 
-- [[Rust] Using a heap allocator when developing apps](tips/rust_heap.md)
+- [[Rust] Utiliser un heap allocator en développant des applications](tips/rust_heap.md)
