@@ -1,7 +1,7 @@
-# Other documentation
+# Documentation autre
 
-This part of the documentation describe everything that didn't fit well in any
-other category
+Cette partie de la documentation décrit tout ce qui ne rentrait dans aucune
+autre catégorie.
 
-- [Communication with the computer (DFU)](dfu.md)
-- [Downloading Epsilon from NumWorks' website](downloading-epsilon.md)
+- [Communication avec l'ordinateur (DFU)](dfu.md)
+- [Télécharger Epsilon depuis le site de NumWorks(downloading-epsilon.md)
