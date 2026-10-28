@@ -1,9 +1,9 @@
-# External apps documentation
+# Documentation applis externes
 
-This part of the documentation describe how does the external apps work and tips
-for creating one
+Cette partie de la documentation explique comment les applis externes fonctionnent et donne des astuces
+pour en créer une
 
-- [Creating your own application](creating-application.md)
-- [Accessing storage](storage.md)
-- [On/Off and Home keys](onoff-home.md)
+- [Créer votre propre application](creating-application.md)
+- [Accéder au stockage](storage.md)
+- [Touches On/Off et Accueil](onoff-home.md)
 - [Syscalls](syscalls.md)
