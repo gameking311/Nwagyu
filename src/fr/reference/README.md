@@ -49,4 +49,4 @@ Voici ce qui est documenté pour l'instant, séparé sous différentes catégori
 
 ### [Astuces de développeur](tips/)
 
-- [[Rust] Utiliser un heap allocator en développant des applications](tips/rust_heap.md)
+- [[Rust] Utiliser un allocator heap en développant des applications](tips/rust_heap.md)
