@@ -17,7 +17,7 @@ Voici ce qui est documenté pour l'instant, séparé sous différentes catégori
 - [4 - Gérer la taille du serpent](tutorial/4-snake-length.md)
 - [5 - Manger des fruits](tutorial/5-fruits.md)
 - [6 - Game over](tutorial/6-game-over.md)
-- [7 - Gérer les coins de la map](tutorial/7-map-edge.md)
+- [7 - Gérer les bords de la map](tutorial/7-map-edge.md)
 - [8 - Limiter les frames](tutorial/8-frame-limiter.md)
 - [9 - Apparition progressive des fruits](tutorial/9-fruits-spawning.md)
 - [10 - Calcul du score et enregistrement](tutorial/10-score.md)
